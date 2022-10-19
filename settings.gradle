@@ -1,0 +1,3 @@
+include ':API'
+include ':MobileApp'
+rootProject.name = "Parking_Mobile_App_Group3"
